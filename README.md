@@ -28,8 +28,8 @@ This project develops a machine learning model to predict the probability of vic
 | Benchmark Profit                      | $23,230                        |
 | **ROI**                               | **62.5%**                      |
 | Win Rate                              | 60.84%                         |
-| $CI_{\text{Win rate}}^{99\%}$         | [55.08%, 66.61%]               |
-| $CI_{\text{Profit per bet}}^{99\%}$   | [\$33.99, \$74.60]               |
+| 99% CI for Win Rate                   | [55.08%, 66.61%]               |
+| 99$ CI for Profit per bet             | [\$33.99, \$74.60]             |
 | **Equivalent Final Odd**              | **1.624**                      |
 
 --- 
